@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TicTacToe-react
 
 - This is my first project that I decided to upload to github

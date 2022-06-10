@@ -1,0 +1,15 @@
+.cell {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	outline: none;
+	border: 1px solid #222222;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+}
+
+.cell:hover {
+	background-color: rgba(255, 255, 255, .9);
+}
